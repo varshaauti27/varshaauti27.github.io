@@ -321,6 +321,12 @@ section {
   color: #173b6c;
 }
 
+.about .content h2 {
+  font-weight: 600;
+  font-size: 16px;
+  color: #173b6c;
+}
+
 .about .content ul {
   list-style: none;
   padding: 0;
